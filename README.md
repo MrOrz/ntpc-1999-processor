@@ -10,7 +10,7 @@
 1. 在 https://github.com/mrorz/ntpc-1999-processor 下載
  ZIP 檔，解壓縮。
 2. 點兩下 `INSTALL.bat` 進行安裝。安裝完成後即可刪掉 `INSTALL.bat`。
-3. 用「記事本」打開 `lib/config.js` 來做欄位設定，存檔。
+3. 用「記事本」打開 `lib/config.js` 來做欄位與篩選器設定，存檔。
 
 執行
 ----
