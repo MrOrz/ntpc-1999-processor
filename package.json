@@ -1,0 +1,16 @@
+{
+  "name": "ntpc-1999-processor",
+  "version": "0.0.0",
+  "description": "Parser tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "iconv-lite": "^0.4.13",
+    "progress-stream": "^1.1.1"
+  }
+}
