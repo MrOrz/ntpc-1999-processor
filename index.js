@@ -36,7 +36,6 @@ parser.on('readable', () => {
       return hasColumn[''+index];
     });
 
-    // console.log('writing:', record);
     stringifier.write(record);
   }
 });
