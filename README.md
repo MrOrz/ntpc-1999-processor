@@ -16,4 +16,4 @@
 ----
 直接將公務雲匯出的 CSV 檔拖曳到 `run.bat` 上，就會在那個 CSV 檔所在的資料夾再產生一個 `xxx.done.csv`；直接去新北市政府資料開放平台上傳此檔即可。
 
-![Imgur](http://i.imgur.com/J0Q9ckK.gifv)
+![Imgur](//i.imgur.com/J0Q9ckK.gif)
