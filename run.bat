@@ -1,3 +1,3 @@
 @echo off
-node index.js %1
+node %dp0index.js %1
 pause
