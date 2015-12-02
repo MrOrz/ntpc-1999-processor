@@ -7,7 +7,7 @@
 ----
 
 0. 先下載 [NodeJS](http://nodejs.org) 並安裝（完全按照預設值即可）。
-1. 在 https://github.com/nptcsmsit/ntpc-1999-processor 下載
+1. 在 https://github.com/ntpcsmsit/ntpc-1999-processor 下載
  ZIP 檔，解壓縮。
 2. 點兩下 `INSTALL.bat` 進行安裝。安裝完成後即可刪掉 `INSTALL.bat`。
 3. 用「記事本」打開 `lib/config.js` 來做欄位與篩選器設定，存檔。
